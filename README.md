@@ -2,6 +2,7 @@
 ## Application Details
 ## CREATING NEW PROJECT AND PUSHING INTO GIT
 ## now adding new line and pushing to GIT now 
+## doing changes from nithin branch
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Wed Apr 17 2024 11:46:28 GMT+0000 (Coordinated Universal Time)|
