@@ -1,9 +1,6 @@
 ## creating new line and pushing to bas
 ## Application Details
 ## CREATING NEW PROJECT AND PUSHING INTO GIT
-
-## Suresh added new line 
-## adding new line using Command line statements new one
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Wed Apr 17 2024 11:46:28 GMT+0000 (Coordinated Universal Time)|
